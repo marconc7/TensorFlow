@@ -12,8 +12,8 @@ The following are all the changes coming in TensorFlow 2.x. Let's have a closer 
 * TensorFlow Lite
 * TensorFlow.js
 * Tidying up the API.
-* The conversion tool
-* Alternative variable scoping
+* The conversion tool.
+* Alternative variable scoping.
   
 
 ## Eager Execution
